@@ -1,0 +1,8 @@
+{
+    "DBNAME": "prod",
+    "HOST": "",
+    "PORT": ,
+    "USER": "",
+    "PASSWORD": "#220",
+    "S3PATH": "s3://///"
+}

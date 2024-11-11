@@ -1,0 +1,8 @@
+{
+    "DBNAME": "dev",
+    "HOST": "",
+    "PORT": ,
+    "USER": "",
+    "PASSWORD": "In#134",
+    "S3PATH": "s3://d_files"
+}
